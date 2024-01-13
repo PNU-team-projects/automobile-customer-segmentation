@@ -7,11 +7,11 @@ The primary goal of this project is to identify distinct customer segments based
 
 The created application will help identify segments of new customers.
 
-### Dataset
+## Dataset
 https://www.kaggle.com/datasets/akashdeepkuila/automobile-customer
 
 
-### Libraries
+## Libraries
 | Part                 | Libs                     | 
 | -------------------- | ------------------------ |  
 | Data Manipulation    | `pandas` `numpy`        |
@@ -20,7 +20,7 @@ https://www.kaggle.com/datasets/akashdeepkuila/automobile-customer
 | Application          | `streamlit` |  
 
 
-### Setting up a project
+## Setting up a project
 
 #### 1) Clone the repository
 ```
@@ -52,5 +52,6 @@ streamlit run run.py
 ```
 
 
-### Preview
-![Preview](app/screenshots/preview.jpg)
+## Preview
+![preview](https://github.com/VladHolobyn/automobile-customer-segmentation/assets/125756054/f4392062-5042-4dab-bc99-b7e4583a71f7)
+
